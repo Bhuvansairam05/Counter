@@ -1,0 +1,39 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+  color: white;
+}
+main{
+  padding:20px;
+}
+main{
+  margin-top:40px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:20px;
+}
+.button{
+  padding: 15px;
+  background-color: green;
+  font-size: 23px;
+  margin-right: 15px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  border: 2px solid transparent;
+  color: white;
+}
+h1{
+  margin-bottom: 15px;
+}
+.decrease{
+  padding: 15px;
+  background-color: red;
+  font-size: 23px;
+  margin-right: 15px;
+  margin-top: 20px;
+  border: 2px solid transparent;
+  color: white;
+}
